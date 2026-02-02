@@ -1,0 +1,8 @@
+1: The run must be equal or better in time
+2: You must name your file like this:
+  ovo-[level]([time]).png
+  example:
+  ovo-01(5.00).png
+3: No loopholes!!!
+4: No mods
+5: No changing index.html or Rules.txt
